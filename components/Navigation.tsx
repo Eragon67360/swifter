@@ -14,7 +14,7 @@ const Navigation = () => {
     const [active, setActive] = useState(0);
 
     return (
-        <div className="fixed z-50 w-full h-16 max-w-lg -translate-x-1/2 bottom-4 left-1/2 bg-gray-400 border-gray-600 h-18 rounded-full px-4 text-white">
+        <div className="fixed z-50 w-full h-16 max-w-lg -translate-x-1/2 bottom-24 left-1/2 bg-gray-400 border-gray-600 h-18 rounded-full px-4 text-white">
             <ul className="flex items-center justify-center relative">
                 {Menus.map((menu, i) => (
                     <li key={i} className="w-20">
