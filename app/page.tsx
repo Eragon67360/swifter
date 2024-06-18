@@ -27,7 +27,7 @@ export default function Home() {
               <div className="hidden py-8 mt-16 border-y border-gray-200 dark:border-gray-800 sm:flex justify-between">
                 <div className="text-left">
                   <h6 className="text-lg font-semibold text-gray-700 dark:text-white">The events</h6>
-                  <p className="mt-2 text-gray-500">All about Taylor Swift's related events</p>
+                  <p className="mt-2 text-gray-500">All about Taylor Swift&apos;s related events</p>
                 </div>
                 <div className="text-left">
                   <h6 className="text-lg font-semibold text-gray-700 dark:text-white">Swift<span className="text-primary">ter</span></h6>
